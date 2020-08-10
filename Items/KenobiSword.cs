@@ -21,7 +21,7 @@ namespace CactusMod.Items
 			item.useAnimation = 19;
 			item.useStyle = 1;
 			item.knockBack = 60;
-			item.value = 1250;
+			item.value = 1000000000000;
 			item.rare = 0;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
