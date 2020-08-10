@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 
 namespace CactusMod.Items
 {
-	public class CactusShortsword : ModItem
+	public class KenobiSword : ModItem
 	{
 		public override void SetStaticDefaults() 
 		{
