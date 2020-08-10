@@ -13,7 +13,7 @@ namespace CactusMod.Items
 
 		public override void SetDefaults() 
 		{
-			item.damage = 90;
+			item.damage = 420;
 			item.melee = true;
 			item.width = 28;
 			item.height = 29;
